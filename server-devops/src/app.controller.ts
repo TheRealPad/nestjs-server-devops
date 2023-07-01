@@ -9,4 +9,8 @@ export class AppController {
   getHello(): string {
     return this.appService.getHello();
   }
+  @Get('/hello-there')
+  getGeneralKenobi(): string {
+    return this.appService.getGeneralKenobi();
+  }
 }

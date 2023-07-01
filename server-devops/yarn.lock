@@ -772,7 +772,7 @@
     "jsonc-parser" "3.2.0"
     "pluralize" "8.0.0"
 
-"@nestjs/testing@^10.0.0":
+"@nestjs/testing@^10.0.4":
   "integrity" "sha512-x4aMwS27XvO3Zvkqv7Ogb9Hj2j5IkW+hthy2uC3BN1CvLoCYz6o2YJGK0CrCtLnugkbfSiJ+F03HE8gePJiEMg=="
   "resolved" "https://registry.npmjs.org/@nestjs/testing/-/testing-10.0.4.tgz"
   "version" "10.0.4"
